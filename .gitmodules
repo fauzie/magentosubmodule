@@ -1,0 +1,3 @@
+[submodule "code/local/KS/Slideshow"]
+	path = code/local/KS/Slideshow
+	url = git@github.com:fauzie/ks-slideshow.git
